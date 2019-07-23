@@ -1,5 +1,5 @@
-/*Query 1:Create a query that lists each family movie, the film category it is classified in, 
-  and the number of times it has been rented out.*/
+/*Query 1:Create a query that lists each family movie, the film category it is classified in,
+and the number of times it has been rented out.*/
 
 WITH t1
 AS (SELECT
